@@ -18,6 +18,9 @@ def special_rearrangement(nums):
        odd.append(num)
 
    return special_rearrangement(nums)
+#print lists after function 
+print(even)
+print(odd)
 
 
    
